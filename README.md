@@ -1,1 +1,1 @@
-#Simple website for donation
+# Simple website for donation :)
